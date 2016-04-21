@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <Resource id="RaceDataSource" type="javax.sql.DataSource">#Wed Apr 20 23:24:21 EEST 2016
+jdbcDriver=org.apache.derby.jdbc.ClientDriver
+password=APP
+userName=APP
+jdbcUrl=jdbc\:derby\://localhost\:1527/StudentsDB
+</Resource>
+</resources>
